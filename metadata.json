@@ -1,0 +1,6 @@
+{
+  "name": "Unified Tracker",
+  "description": "A comprehensive tracking system designing to centralize emails, e-commerce orders, support tickets, and resolution monitoring in a unified dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
